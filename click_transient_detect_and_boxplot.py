@@ -47,7 +47,7 @@ Or even better, just detect transients on which you are interested
 
 # File path where your data is located.
 file_path = 'C:/Users/vicsalcas/Desktop/Villefavard 2022/' + \
-            'Tests musiciens/Attaques musicien 1/'
+            'Tests musiciens/Attaques musicien 1test/'
 
 # ON if you want to save the transient dataset in path_file
 savefile = 'OFF'
