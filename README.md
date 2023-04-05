@@ -11,7 +11,7 @@ Automatic detection works as follows:
 
 ### Count number of slips for each window
 
-![screenshot](screenshots/slips_detected.png "")
+![screenshot](screenshots/count_nb_slips.png "")
 
 ### Calculate mean and std of the peak density function
 
